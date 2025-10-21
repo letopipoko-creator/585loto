@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23027487/README.md)
 # Loterias Municipais - Alavancando Receita Própria
 
 Site interativo com apresentação completa sobre loterias municipais como fonte de receita própria para municípios brasileiros.
